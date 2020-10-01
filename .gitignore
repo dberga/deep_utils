@@ -1,0 +1,11 @@
+**/__pycache__/*
+**/*.png
+**/*.pkl
+**/*.tar*
+**/*.pth
+**/*.pyc
+IL_survey/src/**/__pycache__/*
+IL_survey/src/data/*
+tf-keras/tmp*
+pytorch/flowers
+.idea
